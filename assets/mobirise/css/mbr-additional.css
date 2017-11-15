@@ -3092,6 +3092,12 @@ body {
 .cid-qB5A2A4ARD a.close:hover {
   color: #ffffff;
 }
+#custom-html-i {
+  /* Type valid CSS here */
+}
+#custom-html-i .my-image {
+  width: 100%;
+}
 .cid-qB4u50LXwK {
   padding-top: 30px;
   padding-bottom: 15px;

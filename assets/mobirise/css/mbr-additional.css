@@ -1947,6 +1947,21 @@ body {
 .cid-qAUOOu9XcD .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qB4u50LXwK {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
+}
+.cid-qB4u50LXwK .mbr-iconfont-social {
+  font-size: 32px;
+  color: #e4d295;
+}
+.cid-qB4u50LXwK .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qB4u50LXwK H2 {
+  color: #ffffff;
+}
 .cid-qAUSVHkEWq {
   padding-top: 15px;
   padding-bottom: 15px;

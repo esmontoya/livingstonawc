@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Livingston AWC",
-    "currentPage": "page2.html",
+    "currentPage": "youth.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1656,7 +1656,7 @@
         }
       ]
     },
-    "page2.html": {
+    "youth.html": {
       "settings": {
         "title": "Youth",
         "meta_descr": "Linvingston Apostolic Worship Center",
@@ -2452,7 +2452,7 @@
         }
       ]
     },
-    "page3.html": {
+    "pastorvasquez.html": {
       "settings": {
         "title": "Pastor Vasquez",
         "meta_descr": "Linvingston Apostolic Worship Center",
